@@ -1,66 +1,49 @@
-# Sensai - AI-based Interview & Career Assistance Platform
+# 🌟 Sensai - AI Career Coach 🚀
 
-Sensai is an advanced AI-powered platform designed to assist job seekers and professionals in enhancing their career prospects. It provides personalized interview preparation, resume analysis, and career guidance using AI-driven insights.
+Sensai is a cutting-edge AI-powered career coaching platform designed to help job seekers enhance their interview skills, optimize their resumes, and receive personalized career guidance.  
 
-## 🚀 Features
+This project utilizes the latest advancements in AI and web technologies to provide **real-time feedback, AI-driven career insights, and job market analytics** to users.
 
-- **AI-powered Interview Preparation**: Get real-time feedback on your answers to common and technical interview questions.
-- **Resume Analysis**: Upload your resume and receive AI-driven insights on improvements.
-- **Mock Interviews**: Simulate real interview scenarios with AI-generated questions.
-- **Career Guidance**: Personalized recommendations for career growth and skill development.
-- **Job Market Insights**: AI-driven analytics on industry trends and in-demand skills.
+## 🔥 Features
+
+- **AI-Powered Interview Preparation** – Get real-time AI feedback on technical and behavioral interview questions.
+- **Resume Optimization** – Upload your resume and receive AI-powered recommendations for improvement.
+- **Mock Interviews** – Simulate real-world interviews with AI-generated questions.
+- **Career Insights & Guidance** – Personalized career recommendations based on job market trends.
+- **Job Market Analytics** – Get data-driven insights into industry trends and in-demand skills.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Framer Motion
-- **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL
-- **AI Integration**: OpenAI/Gemini API for NLP-based insights
-- **Authentication**: Firebase/Auth0
-- **Hosting**: Vercel/Netlify
+### **Frontend**
+- **React 19** (with Next.js 15 for server-side rendering & API routes)
+- **Tailwind CSS** (for modern UI design)
+- **Shadcn UI** (for pre-built, accessible UI components)
+
+### **Backend**
+- **Prisma** (ORM for database interactions)
+- **NeonDB** (PostgreSQL cloud database)
+- **Inngest** (for background job processing)
+- **Next.js API Routes** (used instead of traditional backend)
+
+### **AI Integration**
+- **Gemini API** (for AI-driven interview coaching & resume analysis)
+
+### **Authentication**
+- **Clerk** (for secure user authentication)
 
 ## 🎯 How It Works
 
-1. **Sign up/Login** to access the platform.
-2. **Upload your resume** for AI-powered analysis.
+1. **Sign up/Login** securely using Clerk.
+2. **Upload your resume** to receive AI-powered recommendations.
 3. **Practice mock interviews** with AI-generated questions.
-4. **Receive instant feedback** and insights to improve your responses.
-5. **Get career recommendations** based on your skills and job preferences.
+4. **Receive real-time feedback** on your responses.
+5. **Get career guidance** based on industry trends.
 
-## 📌 Installation & Setup
+## 🚀 Installation & Setup
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/sensai.git
-   cd sensai
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the development server:
-   ```sh
-   npm run dev
-   ```
-4. Open `http://localhost:3000` in your browser.
-
-## 📷 Screenshots
-(Add relevant UI screenshots here)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌟 Support
-
-If you find this project helpful, please ⭐ the repository to show your support!
-
----
-
-🚀 **Sensai** - Transforming job seekers into industry-ready professionals!
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/yourusername/sensai.git
+cd sensai
